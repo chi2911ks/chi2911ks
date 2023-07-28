@@ -1,7 +1,4 @@
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/chi291ks.svg" width="1200" alt="chi291ks-official" />
-</a>
+
 
 <h2 align="center">🛠 CB Tool 🛠</h2>
 <br>
