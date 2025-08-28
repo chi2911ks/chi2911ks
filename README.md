@@ -1,6 +1,6 @@
 
 
-<h2 align="center">🛠 CB Tool 🛠</h2>
+<h2 align="center">CB Tool</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25" /></span>
@@ -42,16 +42,16 @@
 
 <br>
 
-<h2 align="center">📖 Auto Python 📖</h2>
+<h2 align="center">📖 Automation Basic Python 📖</h2>
 <br>
 <p>
   <a href="https://youtu.be/p8IwHUi_hig" target="_blank">
-    <strong>☕ Học code MMO </strong>
+    <strong>☕ Code Basic </strong>
   </a>
 </p>
 <p>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/chi.azawaki" target="_blank">https://www.facebook.com/chi.azawaki</a></strong>
+  <strong>🔗 Facebook: <a href="https://www.facebook.com/chi.azawaki" target="_blank">https://www.facebook.com/chi.azawaki</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:chi2911bs@gmail.com" target="_top">chi2911bs@gmail.com</a></strong>
+  <strong>📧 Email: <a href="mailto:chi2911bs@gmail.com" target="_top">chi2911bs@gmail.com</a></strong>
 </p>
 
