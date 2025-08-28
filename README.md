@@ -1,6 +1,6 @@
 
 
-<h2 align="center">CB Tool</h2>
+<h2 align="center">CB Tool - Đỗ Trọng Chi</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25" /></span>
@@ -46,7 +46,7 @@
 <br>
 <p>
   <a href="https://youtu.be/p8IwHUi_hig" target="_blank">
-    <strong>☕ Code Basic </strong>
+    <strong>☕ Video Code Basic </strong>
   </a>
 </p>
 <p>
