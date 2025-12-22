@@ -36,18 +36,25 @@
 
 <br>
 <h2 align="center">🌐 Connect with me</h2>
-<a href="https://facebook.com/chi.azawaki" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@cbtool" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
-</a>
-<a href="https://instagram.com/chi2911ks" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:chi2911bs@gmail.com" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" />
-</a>
-<br>
+
+<p align="center">
+  <a href="https://facebook.com/chi.azawaki" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"
+         height="40" />
+  </a>
+  <a href="https://www.youtube.com/@cbtool" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"
+         height="40" />
+  </a>
+  <a href="https://instagram.com/chi2911ks" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"
+         height="40" />
+  </a>
+  <a href="mailto:chi2911bs@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"
+         height="40" />
+  </a>
+</p>
+
 
 
