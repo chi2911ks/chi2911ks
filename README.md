@@ -40,24 +40,25 @@
 <p align="center">
   <a href="https://facebook.com/chi.azawaki" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg"
-         width="40" height="40" style="filter: invert(1);" />
+         width="42" style="color:#1877F2;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@cbtool" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
-         width="40" height="40" style="filter: invert(1);" />
+         width="42" style="color:#FF0000;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/chi2911ks" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
-         width="40" height="40" style="filter: invert(1);" />
+         width="42" style="color:#E4405F;" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:chi2911bs@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-         width="40" height="40" style="filter: invert(1);" />
+         width="42" style="color:#EA4335;" />
   </a>
 </p>
+
 
 
 <br>
