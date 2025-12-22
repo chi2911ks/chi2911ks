@@ -3,8 +3,21 @@
 <h2 align="center">CB Tool - Đỗ Trọng Chi</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25" /></span>
-<span><img src="https://img.shields.io/badge/java-blue?logo=java" alt="Java logo" title="Java" height="25" /></span>
+<span>
+  <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E"
+       alt="Python logo" title="Python" height="25" />
+</span>
+
+<span>
+  <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=white"
+       alt="Java logo" title="Java" height="25" />
+</span>
+
+<span>
+  <img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=white"
+       alt="Kotlin logo" title="Kotlin" height="25" />
+</span>
+
 &nbsp;
 
 
@@ -22,7 +35,7 @@
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">Where to find me</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -42,16 +55,16 @@
 
 <br>
 
-<h2 align="center">📖 Automation Basic Python 📖</h2>
+<h2 align="center">Automation Basic Python</h2>
 <br>
 <p>
   <a href="https://youtu.be/p8IwHUi_hig" target="_blank">
-    <strong>☕ Video Code Basic </strong>
+    <strong>Video Code Basic </strong>
   </a>
 </p>
 <p>
-  <strong>🔗 Facebook: <a href="https://www.facebook.com/chi.azawaki" target="_blank">https://www.facebook.com/chi.azawaki</a></strong>
+  <strong>Facebook: <a href="https://www.facebook.com/chi.azawaki" target="_blank">https://www.facebook.com/chi.azawaki</a></strong>
   <br>
-  <strong>📧 Email: <a href="mailto:chi2911bs@gmail.com" target="_top">chi2911bs@gmail.com</a></strong>
+  <strong>Email: <a href="mailto:chi2911bs@gmail.com" target="_top">chi2911bs@gmail.com</a></strong>
 </p>
 
