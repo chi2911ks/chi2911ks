@@ -2,20 +2,21 @@
 
 <h2 align="center">CB Tool</h2>
 <br>
+<h2 align="center">Programming Languages</h2>
 <!-- https://simpleicons.org/ -->
 <span>
   <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E"
-       alt="Python logo" title="Python" height="25" />
+       alt="Python logo" title="Python" height="40" />
 </span>
 
 <span>
   <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=white"
-       alt="Java logo" title="Java" height="25" />
+       alt="Java logo" title="Java" height="40" />
 </span>
 
 <span>
   <img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=white"
-       alt="Kotlin logo" title="Kotlin" height="25" />
+       alt="Kotlin logo" title="Kotlin" height="40" />
 </span>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
