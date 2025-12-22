@@ -38,27 +38,19 @@
 <h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
-  <a href="https://facebook.com/chi.azawaki" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg"
-         width="42" style="color:#1877F2;" />
+  <a href="https://facebook.com/chi.azawaki">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@cbtool" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
-         width="42" style="color:#FF0000;" />
+  <a href="https://www.youtube.com/@cbtool">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/chi2911ks" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
-         width="42" style="color:#E4405F;" />
+  <a href="https://instagram.com/chi2911ks">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:chi2911bs@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-         width="42" style="color:#EA4335;" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 
 <br>
