@@ -1,6 +1,6 @@
 
 
-<h2 align="center">CB Tool - Đỗ Trọng Chi</h2>
+<h2 align="center">CB Tool</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span>
