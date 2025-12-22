@@ -35,23 +35,30 @@
 </div>
 
 <br>
-<h2 align="center">Where to find me</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://facebook.com/chi.azawaki" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="chi2911ks-facebook" />
+<h2 align="center">🌐 Connect with me</h2>
+
+<p align="center">
+  <a href="https://facebook.com/chi.azawaki" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg"
+         width="40" height="40" style="filter: invert(1);" />
   </a>
-  <a href="https://www.youtube.com/@cbtool" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="chi2911ks-youtube" />
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@cbtool" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
+         width="40" height="40" style="filter: invert(1);" />
   </a>
-  <a href="https://instagram.com/chi2911ks" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="chi2911ks-instagram" />
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/chi2911ks" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
+         width="40" height="40" style="filter: invert(1);" />
   </a>
-  <a href="mailto:chi2911bs@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="chi2911ks-email" />
+  &nbsp;&nbsp;
+  <a href="mailto:chi2911bs@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+         width="40" height="40" style="filter: invert(1);" />
   </a>
-</div>
+</p>
+
 
 <br>
 
