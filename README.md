@@ -1,6 +1,6 @@
 
 
-<h2 align="center">CB Tool</h2>
+<h2 align="center">Programming Languages</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span>
