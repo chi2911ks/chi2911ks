@@ -37,7 +37,7 @@
 <br>
 <h2 align="center">🌐 Connect with me</h2>
 
-<p align="center">
+
   <a href="https://facebook.com/chi.azawaki" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
   </a>
@@ -50,7 +50,7 @@
   <a href="mailto:chi2911bs@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" />
   </a>
-</p>
+
 
 
 
