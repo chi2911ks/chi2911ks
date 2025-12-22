@@ -2,7 +2,6 @@
 
 <h2 align="center">CB Tool</h2>
 <br>
-<h2 align="center">Programming Languages</h2>
 <!-- https://simpleicons.org/ -->
 <span>
   <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E"
