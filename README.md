@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=white"
        alt="Kotlin logo" title="Kotlin" height="25" />
 </span>
-
-&nbsp;
-
-
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
