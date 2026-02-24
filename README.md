@@ -23,7 +23,12 @@
 <br>
 <div align=center>
   <a href="#" title="chi2911ks">
-    <img width="315" align="center" src="https://streak-stats.demolab.com/?user=chi2911ks&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
+    <img width="400" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=chi2911ks&show_icons=true&theme=radical" />
+  </a>
+  <br>
+  <br>
+  <a href="#" title="chi2911ks">
+    <img width="400" align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=chi2911ks&theme=radical" />
   </a>
 </div>
 
