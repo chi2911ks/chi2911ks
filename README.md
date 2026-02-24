@@ -23,7 +23,7 @@
 <br>
 <div align=center>
   <a href="#" title="chi2911ks">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi2911ks&hide=CSS,%20Procfile&title_color=61dafb&text_color=f1f1f1&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://streak-stats.demolab.com/?user=chi2911ks&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
   </a>
 </div>
 
